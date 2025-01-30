@@ -36,7 +36,7 @@ author_profile: true
 
 <h2>Unpublished works</h2>
 {% for post in site.publications reversed %}
-  {% if post.pubtype == 'Unpublished' %}
+  {% if post.pubtype == 'unpublished' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
