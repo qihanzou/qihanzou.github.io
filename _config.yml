@@ -21,7 +21,7 @@ repository               : "qihanzou/qihanzou.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"myphoto2.PNG"
+  avatar           : "profile.png"
   name             : "Qihan Zou"
   pronouns         : "He/Him"  
   bio              : "Statistics/Data Science graduate from Unimelb."
