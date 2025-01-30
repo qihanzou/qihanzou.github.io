@@ -11,4 +11,4 @@ I am a recent Statistics/Data science graduate from the [School of Mathematics &
 
 I was advised by [Dr.Tingjin Chu](https://findanexpert.unimelb.edu.au/profile/795463-tingjin-chu) (School of Mathematics & Statistics, Unimelb) for my master's thesis (Geostatistical Analysis of Metallicity in Galaxy NGC5236).
 
-[Personal Email](qihanzou@gmail.com)/[Student Email](qihan@student.unimelb.edu.au)/[Staff Email](qihan.zou.1@unimelb.edu.au)/[ORCID](https://orcid.org/0009-0004-7629-4137)/[Github](https://github.com/qihanzou)/[Linkedin](https://www.linkedin.com/in/qihanzou)
+[Email](mailto: qihanzou@gmail.com)/[ORCID](https://orcid.org/0009-0004-7629-4137)/[Github](https://github.com/qihanzou)/[Linkedin](https://www.linkedin.com/in/qihanzou)
