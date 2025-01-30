@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "myphoto2.png"
   name             : "Qihan Zou"
   pronouns         : # example: "she/her"  
   bio              : "Statistics/Data Science graduate from Unimelb."
