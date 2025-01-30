@@ -12,9 +12,9 @@ title                    : "Qihan Zou"
 title_separator          : "-"
 name                     : &name "Qihan Zou/Personal Homepage"
 description              : &description "Data Scientist, Researcher"
-url                      : https://qihanzou.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://qihanzou.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "qihanzou/qihanzou.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "myphoto2.png"
   name             : "Qihan Zou"
-  pronouns         : # example: "she/her"  
+  pronouns         : example: "He/Him"  
   bio              : "Statistics/Data Science graduate from Unimelb."
   location         : "Australia"
   employer         : "University of Melbourne"
