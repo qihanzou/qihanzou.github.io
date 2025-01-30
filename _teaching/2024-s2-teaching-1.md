@@ -1,7 +1,7 @@
 ---
 title: "Data Analysis 1 (MAST10010)"
 collection: teaching
-type: "Undergraduate  tutorial and computer lab"
+type: "Undergraduate tutorial and computer lab"
 permalink: /teaching/2024-s2-teaching-1
 venue: "Unimelb, School of Mathematics and Statistics"
 date: 2024 semester 2
