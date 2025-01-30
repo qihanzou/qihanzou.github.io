@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Data Analysis 1 (MAST10010)"
 collection: teaching
 type: "Undergraduate  tutorial and computer lab"
 permalink: /teaching/2024-s2-teaching-1
