@@ -12,7 +12,7 @@ title                    : "Qihan Zou"
 title_separator          : "-"
 name                     : &name "Qihan Zou/Personal Homepage"
 description              : &description "Data Scientist, Researcher"
-url                      : "https://qihanzou.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qihanzou/qihanzou.github.io"
 
