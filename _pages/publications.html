@@ -5,18 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div class="wordwrap">
-  You can also find my articles on
-  {% if site.author.googlescholar %}
-    <a href="{{site.author.googlescholar}}">Google Scholar</a>
-  {% endif %}
-  {% if site.author.googlescholar and site.author.semanticscholar %}
-    and
-  {% endif %}
-  {% if site.author.semanticscholar %}
-    <a href="{{site.author.semanticscholar}}">Semantic Scholar</a>
-  {% endif %}.
-</div>
+{% if site.author.googlescholar or site.author.semantic %}
+  <div class="wordwrap">
+    You can also find my articles on
+    {% if site.author.googlescholar %}
+      <a href="{{site.author.googlescholar}}">Google Scholar</a>
+    {% endif %}
+    {% if site.author.googlescholar and site.author.semantic %}
+      and
+    {% endif %}
+    {% if site.author.semantic %}
+      <a href="{{site.author.semantic}}">Semantic Scholar</a>
+    {% endif %}.
+  </div>
+{% endif %}
 
 {% include base_path %}
 
