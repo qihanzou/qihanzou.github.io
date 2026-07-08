@@ -11,7 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
+
+<h2>Preprints</h2>
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'preprint' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
 
 <h2>Journal Articles</h2>
 {% for post in site.publications reversed %}
@@ -27,17 +34,5 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<h2>Academic</h2>
-{% for post in site.publications reversed %}
-  {% if post.pubtype == 'academic' %}
-      {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
 
-<h2>Unpublished works</h2>
-{% for post in site.publications reversed %}
-  {% if post.pubtype == 'unpublished' %}
-      {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
 
