@@ -8,4 +8,3 @@ date: 2024-07-01
 location: "Melbourne, Australia"
 ---
 
-Instructed tutorials and computer labs (Minitab) for two classes comprising a total of 30 students. Evaluated assignments and provided constructive feedback to students. Answered students’ questions after class.
