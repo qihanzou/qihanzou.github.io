@@ -1,7 +1,7 @@
 ---
 title: "Spatio-Temporal Log-Gaussian Cox-Hawkes Processes with Inhibition and Excitation for Stochastic Star Formation"
 collection: publications
-pubtype: 'unpublished'
+pubtype: 'preprint'
 permalink: /publication/2026-06-11-spatio-temporal-log-gaussian-cox-hawkes
 excerpt: 'A spatio-temporal point process model combining log-Gaussian Cox processes and Hawkes processes with inhibition and excitation for stochastic star formation.'
 date: 2026-06-11
