@@ -21,7 +21,6 @@ PDF available here: [arXiv PDF](https://arxiv.org/pdf/2508.12372v2).
 
 **BibTeX:**
 
-```bibtex
 @misc{zou2026spatiotemporalloggaussiancoxhawkesprocesses,
   title={Spatio-Temporal Log-Gaussian Cox-Hawkes Processes with Inhibition and Excitation for Stochastic Star Formation},
   author={Qihan Zou},
