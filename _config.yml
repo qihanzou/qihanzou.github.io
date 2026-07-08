@@ -24,15 +24,15 @@ author:
   avatar           : "profile.png"
   name             : "Qihan Zou"
   pronouns         : "He/Him"  
-  bio              : "Statistics/Data Science graduate from Unimelb."
+  bio              : "PhD student in Mathematical Sciences at RMIT University."
   location         : "Australia"
-  employer         : "University of Melbourne"
+  employer         : "RMIT University; University of Melbourne"
   uri              : # URL
   email            : "qihanzou@gmail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "http://arxiv.org/a/zou_q_1"
+  googlescholar    : "https://scholar.google.com/citations?user=OT9LIyoAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/0009-0004-7629-4137"
   semantic         : # URL
