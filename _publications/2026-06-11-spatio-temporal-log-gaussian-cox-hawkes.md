@@ -18,3 +18,17 @@ PDF available here: [arXiv PDF](https://arxiv.org/pdf/2508.12372v2).
 
 - v1: 17 August 2025.
 - v2: 11 June 2026.
+
+**BibTeX:**
+
+```bibtex
+@misc{zou2026spatiotemporalloggaussiancoxhawkesprocesses,
+  title={Spatio-Temporal Log-Gaussian Cox-Hawkes Processes with Inhibition and Excitation for Stochastic Star Formation},
+  author={Qihan Zou},
+  year={2026},
+  eprint={2508.12372},
+  archivePrefix={arXiv},
+  primaryClass={astro-ph.GA},
+  url={https://arxiv.org/abs/2508.12372v2},
+  note={arXiv:2508.12372v2 [astro-ph.GA], revised 11 June 2026}
+}
