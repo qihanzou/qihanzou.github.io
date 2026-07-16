@@ -2,12 +2,12 @@
 title: "Deep Simulation-Based Inference for Inhomogeneous Bivariate Log-Gaussian Cox Processes"
 collection: publications
 pubtype: 'preprint'
-permalink: /publication/2026-07-14-DSBI-LGCP
+permalink: /publication/2026-07-14-DSBI-BLGCP
 excerpt: ''
 date: 2026-07-14
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2607.13113'
-citation: 'Zou, Q., Wang, Y., Chu, T., & Huang, Z. (2026). "Deep Simulation-Based Inference for Inhomogeneous Bivariate Log-Gaussian Cox Processes." arXiv:2607.13113.'
+citation: 'Zou, Qihan., Wang, Yan., Chu, Tingjin., & Huang, Zhendong. (2026). "Deep Simulation-Based Inference for Inhomogeneous Bivariate Log-Gaussian Cox Processes." arXiv:2607.13113.'
 ---
 
 Preprint available on [arXiv](https://arxiv.org/abs/2607.13113v1).
